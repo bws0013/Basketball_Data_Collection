@@ -1,0 +1,7 @@
+28: /nba/boxscore.asp?gamecode=2019020617&home=17&vis=7&final=true
+38: /nba/boxscore.asp?gamecode=2019020604&home=4&vis=3&final=true
+49: /nba/boxscore.asp?gamecode=2019020615&home=15&vis=27&final=true
+60: /nba/boxscore.asp?gamecode=2019020606&home=6&vis=30&final=true
+71: /nba/boxscore.asp?gamecode=2019020626&home=26&vis=21&final=true
+82: /nba/boxscore.asp?gamecode=2019020623&home=23&vis=10&final=true
+92: /nba/boxscore.asp?gamecode=2019020609&home=9&vis=24&final=true
